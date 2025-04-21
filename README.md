@@ -8,7 +8,7 @@ Mi nombre es Henry me encantan los desafios, crear y aprender ayudando, soy red 
 
 
 ## ***Entornos***
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=docker,windows,linux,bash,shell,vmware,virtualbox,hackthebox,vulnhub,portswigger,git,anaconda,yew&titles=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=docker,windows,linux,bash,virtualbox,hackthebox,git,anaconda,yew&titles=true)
 
 ## ***Pentesting***
 
