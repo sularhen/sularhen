@@ -3,12 +3,6 @@
 ### ***¿Quien soy?***
 Mi nombre es Henry me encantan los desafios, crear y aprender ayudando, soy red team de corazon pero creador por vocacion.
 
-Disfruto en mi tiempo libre haciendo:
-
-🕵️ OSINT  
-    MMA
-  YOUTUBE VIDEOS
-
 ### ***Lenguajes y Databases***
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -59,7 +53,7 @@ Disfruto en mi tiempo libre haciendo:
 ![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=flat-square&logo=obsidian&logoColor=white)
 
 
-
+<br><br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sularhen&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </div>
