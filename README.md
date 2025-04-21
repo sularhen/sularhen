@@ -3,6 +3,12 @@
 ### ***¿Quien soy?***
 Mi nombre es Henry me encantan los desafios, crear y aprender ayudando, soy red team de corazon pero creador por vocacion.
 
+Disfruto en mi tiempo libre haciendo:
+
+🕵️ OSINT  
+    MMA
+  YOUTUBE VIDEOS
+
 ### ***Lenguajes y Databases***
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -41,9 +47,6 @@ Mi nombre es Henry me encantan los desafios, crear y aprender ayudando, soy red 
 ![Hydra](https://img.shields.io/badge/Hydra-FFCC00?style=flat-square&logoColor=black)
 ![Maltego](https://img.shields.io/badge/Maltego-003366?style=flat-square&logoColor=white)
 
-🕵️ OSINT  
-🧪 Fuzzing
-
 ### ***Creation***
 ![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-FF4C00?style=flat-square&logo=blackmagicdesign&logoColor=white)
 ![FL Studio](https://img.shields.io/badge/FL%20Studio-F48E00?style=flat-square&logo=image-line&logoColor=white)
@@ -54,6 +57,7 @@ Mi nombre es Henry me encantan los desafios, crear y aprender ayudando, soy red 
 ![OBS Studio](https://img.shields.io/badge/OBS%20Studio-302E31?style=flat-square&logo=obsstudio&logoColor=white)
 ![Flameshot](https://img.shields.io/badge/Flameshot-DD00AA?style=flat-square&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=flat-square&logo=obsidian&logoColor=white)
+
 
 
 <div align="center">
