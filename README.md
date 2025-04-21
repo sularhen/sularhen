@@ -57,6 +57,6 @@ Mi nombre es Henry me encantan los desafios, crear y aprender ayudando, soy red 
 
 
 <div align="center">
-![Tus Stats](https://github-readme-stats.vercel.app/api?username=sularhen&show_icons=true&theme=tokyonight)  
+  <img src="https://github-readme-stats.vercel.app/api?username=sularhen&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </div>
 
