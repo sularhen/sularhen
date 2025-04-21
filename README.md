@@ -56,5 +56,7 @@ Mi nombre es Henry me encantan los desafios, crear y aprender ayudando, soy red 
 ![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=flat-square&logo=obsidian&logoColor=white)
 
 
+<div align="center">
 ![Tus Stats](https://github-readme-stats.vercel.app/api?username=sularhen&show_icons=true&theme=tokyonight)  
+</div>
 
