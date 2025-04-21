@@ -24,7 +24,6 @@ Mi nombre es Henry me encantan los desafios, crear y aprender ayudando, soy red 
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
 ![Hack The Box](https://img.shields.io/badge/HackTheBox-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)
 ![VulnHub](https://img.shields.io/badge/VulnHub-222222?style=flat-square&logoColor=white)
-
 ![PortSwigger](https://img.shields.io/badge/PortSwigger-FF6600?style=flat-square&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)
@@ -39,7 +38,6 @@ Mi nombre es Henry me encantan los desafios, crear y aprender ayudando, soy red 
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logoColor=white)
 ![Nikto](https://img.shields.io/badge/Nikto-E62B1E?style=flat-square&logoColor=white)
 ![John the Ripper](https://img.shields.io/badge/JtR-222222?style=flat-square&logoColor=white)
-
 ![Hydra](https://img.shields.io/badge/Hydra-FFCC00?style=flat-square&logoColor=black)
 ![Maltego](https://img.shields.io/badge/Maltego-003366?style=flat-square&logoColor=white)
 
@@ -57,6 +55,6 @@ Mi nombre es Henry me encantan los desafios, crear y aprender ayudando, soy red 
 ![Flameshot](https://img.shields.io/badge/Flameshot-DD00AA?style=flat-square&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=flat-square&logo=obsidian&logoColor=white)
 
-### ***github stats***
+
 ![Tus Stats](https://github-readme-stats.vercel.app/api?username=sularhen&show_icons=true&theme=default)  
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=sularhen&layout=compact&theme=default)
+
