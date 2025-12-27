@@ -53,8 +53,4 @@ My name is Henry, I love challenges, creating and learning by helping, I am a re
 ![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=flat-square&logo=obsidian&logoColor=white)
 
 
-<br><br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sularhen&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</div>
 
