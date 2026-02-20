@@ -1,7 +1,7 @@
 ![](https://github.com/sularhen/sularhen/blob/main/BannerReadMe.gif)
 
 ### ***> Whoami***
-My name is Henry, I love challenges, creating and learning by helping, I am a red team at heart but a creator by vocation..
+Hello everybody my name is Henry and I love challenges, creating and learning by helping, I am a red team at heart but a creator by vocation.
 
 ### ***Lenguajes y Databases***
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
