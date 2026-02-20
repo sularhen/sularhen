@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sularhen/sularhen/main/TechEvolution.gif" width="30%">
+  <img src="https://raw.githubusercontent.com/sularhen/sularhen/main/TechEvolution.gif" width="70%">
 </p>
 
 ### ***> Whoami***
