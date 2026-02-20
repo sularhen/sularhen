@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/sularhen/sularhen/main/TechEvolution.gif" width="100%">
+<img src="https://raw.githubusercontent.com/sularhen/sularhen/main/TechEvolution.gif" width="30%">
 
 ### ***> Whoami***
 Hello everybody my name is Henry and I love challenges, creating and learning by helping, I am a red team at heart but a creator by vocation.
