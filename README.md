@@ -1,5 +1,4 @@
-![](https://github.com/sularhen/sularhen/blob/main/BannerReadMe.gif)
-
+<img src="https://raw.githubusercontent.com/sularhen/sularhen/main/BannerReadMe.gif" width="100%">
 ### ***> Whoami***
 Hello everybody my name is Henry and I love challenges, creating and learning by helping, I am a red team at heart but a creator by vocation.
 
